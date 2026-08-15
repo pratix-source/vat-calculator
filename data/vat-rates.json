@@ -1,0 +1,181 @@
+{
+  "last_updated": "2026-08-01T00:00:00Z",
+  "source": "European Commission VAT Directive / national tax authorities",
+  "rates": {
+    "DE": {
+      "country": "Germany",
+      "standard": 19,
+      "reduced": [
+        7
+      ],
+      "digital_services": 19
+    },
+    "FR": {
+      "country": "France",
+      "standard": 20,
+      "reduced": [
+        5.5,
+        10
+      ],
+      "digital_services": 20
+    },
+    "IT": {
+      "country": "Italy",
+      "standard": 22,
+      "reduced": [
+        4,
+        5,
+        10
+      ],
+      "digital_services": 22
+    },
+    "ES": {
+      "country": "Spain",
+      "standard": 21,
+      "reduced": [
+        4,
+        10
+      ],
+      "digital_services": 21
+    },
+    "NL": {
+      "country": "Netherlands",
+      "standard": 21,
+      "reduced": [
+        9
+      ],
+      "digital_services": 21
+    },
+    "SE": {
+      "country": "Sweden",
+      "standard": 25,
+      "reduced": [
+        6,
+        12
+      ],
+      "digital_services": 25
+    },
+    "DK": {
+      "country": "Denmark",
+      "standard": 25,
+      "reduced": [],
+      "digital_services": 25
+    },
+    "NO": {
+      "country": "Norway",
+      "standard": 25,
+      "reduced": [
+        12,
+        15
+      ],
+      "digital_services": 25
+    },
+    "FI": {
+      "country": "Finland",
+      "standard": 25.5,
+      "reduced": [
+        10,
+        14
+      ],
+      "digital_services": 25.5
+    },
+    "TR": {
+      "country": "Türkiye",
+      "standard": 20,
+      "reduced": [
+        1,
+        10
+      ],
+      "digital_services": 20
+    },
+    "GB": {
+      "country": "United Kingdom",
+      "standard": 20,
+      "reduced": [
+        5
+      ],
+      "digital_services": 20
+    },
+    "CH": {
+      "country": "Switzerland",
+      "standard": 8.1,
+      "reduced": [
+        2.6,
+        3.8
+      ],
+      "digital_services": 8.1
+    },
+    "BE": {
+      "country": "Belgium",
+      "standard": 21,
+      "reduced": [
+        6,
+        12
+      ],
+      "digital_services": 21
+    },
+    "AT": {
+      "country": "Austria",
+      "standard": 20,
+      "reduced": [
+        10,
+        13
+      ],
+      "digital_services": 20
+    },
+    "IE": {
+      "country": "Ireland",
+      "standard": 23,
+      "reduced": [
+        9,
+        13.5
+      ],
+      "digital_services": 23
+    },
+    "PL": {
+      "country": "Poland",
+      "standard": 23,
+      "reduced": [
+        5,
+        8
+      ],
+      "digital_services": 23
+    },
+    "PT": {
+      "country": "Portugal",
+      "standard": 23,
+      "reduced": [
+        6,
+        13
+      ],
+      "digital_services": 23
+    },
+    "CZ": {
+      "country": "Czechia",
+      "standard": 21,
+      "reduced": [
+        12,
+        15
+      ],
+      "digital_services": 21
+    },
+    "HU": {
+      "country": "Hungary",
+      "standard": 27,
+      "reduced": [
+        5,
+        18
+      ],
+      "digital_services": 27
+    },
+    "RO": {
+      "country": "Romania",
+      "standard": 19,
+      "reduced": [
+        5,
+        9
+      ],
+      "digital_services": 19
+    }
+  }
+}

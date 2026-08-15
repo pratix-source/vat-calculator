@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/tools/vat-calculator.html"
+    },
+    {
+      "source": "/tools",
+      "destination": "/tools/vat-calculator.html"
+    }
+  ],
+  "cleanUrls": true
+}
